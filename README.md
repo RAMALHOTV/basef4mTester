@@ -2,7 +2,7 @@
 <item>
 <title>[COLOR green][COLOR lawngreen][B]• [/B] [/COLOR][B]BRAZIL TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=http://goo.gl/5cpLde</jsonrpc>
+<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=https://raw.githubusercontent.com/RAMALHOTV/-Todos-os-Canais/main/README.md</jsonrpc>
 <fanart>http://blog.hdwallsource.com/wp-content/uploads/2016/03/brazil-flag-23210-23860-hd-wallpapers.jpg</fanart>
 <thumbnail>http://i.imgur.com/OQ3hxAG.png</thumbnail>
 <info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
