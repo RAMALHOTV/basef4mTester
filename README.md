@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-<title>[COLOR green][COLOR lawngreen][B]• [/B] [/COLOR][B]BRAZIL TV[/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=https://raw.githubusercontent.com/RAMALHOTV/-Todos-os-Canais/main/README.md</jsonrpc>
-<fanart>http://blog.hdwallsource.com/wp-content/uploads/2016/03/brazil-flag-23210-23860-hd-wallpapers.jpg</fanart>
-<thumbnail>http://i.imgur.com/OQ3hxAG.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
-</item>
+
 
 <item>
 <title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]Opiçao-01[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] f4mTester  [/B][/COLOR]</title>
