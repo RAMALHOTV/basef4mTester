@@ -6,7 +6,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<externallink>https://pastebin.com/raw/3GCMB4TY</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mtester001/main/README.md</externallink>
 </item>
 
 <item>
