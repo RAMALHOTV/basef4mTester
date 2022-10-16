@@ -29,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/Salve-Jorge/main/README.md</externallink>
+<externallink>https://tinyurl.com/PVRFORMIGAtv</externallink>
 </channel>
 </channels>
 
@@ -40,7 +40,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/testeblive/main/README.md</externallink>
+<externallink>https://tinyurl.com/PVRFORMIGAtvOP2</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
@@ -50,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/-Todos-os-Canais/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/DwightFarrokh/DwightFarrokh/main/listapvr.xml</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
@@ -60,7 +60,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/Brega-Chique-/main/README.md</externallink>
+<externallink>http://mn.hostinggonow.com:2095/get.php?username=NEW_LIVE2370242632&password=8024768742&type=m3u</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
