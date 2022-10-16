@@ -50,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/DwightFarrokh/DwightFarrokh/main/listapvr.xml</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Salve-Jorge/main/README.md</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
