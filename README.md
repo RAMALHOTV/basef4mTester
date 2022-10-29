@@ -29,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/Brega-Chique-/main/README.md</externallink>
+<externallink>http://dmnet.distv.net:8080/get.php?username=vania&password=123456&type=m3u_plus</externallink>
 </channel>
 </channels>
 
@@ -40,7 +40,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/testeblive/main/README.md</externallink>
+<externallink>http://dmnet.distv.net:8080/get.php?username=josafa&password=123456&type=m3u_plus&output=mpegts</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
@@ -54,14 +54,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
-<channels>
-<channel>
-<name>[B][COLOR  yellow]RamalhoIPTV [/COLOR]SERVIDOR 02 [COLOR turquoise]Opição 05[F4MTESTER][/COLOR][/B]</name>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
-<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>http://mn.hostinggonow.com:2095/get.php?username=NEW_LIVE2370242632&password=8024768742&type=m3u</externallink>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
-
