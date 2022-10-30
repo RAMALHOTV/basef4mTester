@@ -29,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>http://dmnet.distv.net:8080/get.php?username=vania&password=123456&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/F4mtester5.1/main/README.md</externallink>
 </channel>
 </channels>
 
@@ -40,7 +40,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>http://dmnet.distv.net:8080/get.php?username=josafa&password=123456&type=m3u_plus&output=mpegts</externallink>
+<externallink>http://vdk10.xyz/get.php?username=5106984619281&password=5767259217856&type=m3u_plus</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
