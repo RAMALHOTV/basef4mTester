@@ -40,7 +40,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>http://vdk10.xyz/get.php?username=5106984619281&password=5767259217856&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Brega-Chique-/main/README.md</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
@@ -53,15 +53,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/Salve-Jorge/main/README.md</externallink>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
-<channels>
-<channel>
-<name>[B][COLOR  yellow]RamalhoIPTV [/COLOR]SERVIDOR 02 [COLOR turquoise]Opição teste[F4MTESTER][/COLOR][/B]</name>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
-<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>http://78.159.101.179:2095/get.php?username=xplus-2-WZtCqMdeLK&password=vsqCenijCq&type=m3u_plus</externallink>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
-
