@@ -74,7 +74,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/Gaviao001/main/README.md</externallink>
 </channel>
 </channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+<channels>
+<channel>
+<name>[B][COLOR  yellow]RamalhoIPTV [/COLOR]SERVIDOR 02 [COLOR turquoise]Opição 07[F4MTESTER][/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
+<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/servidorteste/main/README.md</externallink>
+</channel>
+</channels>
 
 
 
